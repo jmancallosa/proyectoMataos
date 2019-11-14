@@ -25,7 +25,7 @@ SECRET_KEY = 'odsarv^2&$@6k@rdbht=l+*i(qogdllii91k7kqudq&2)4m73#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
